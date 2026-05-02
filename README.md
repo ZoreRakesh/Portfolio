@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my experience, skills, and projects in SAP ABAP consulting.
 
 ## Live Site
-Visit: https://YOUR_USERNAME.github.io/portfolio/
+Visit: https://zorerakesh.github.io/Portfolio/
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript (Vanilla)
